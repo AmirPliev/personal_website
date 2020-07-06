@@ -14,8 +14,8 @@
   weight = 30
 
 [[main]]
-  name = "Music Explorations"
-  url = "/publications"
+  name = "Music"
+  url = "#publications"
   weight = 40
 
 [[main]]
