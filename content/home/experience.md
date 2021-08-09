@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
 title = "Experience"
 subtitle = "Previous employers and experiences gathered"
@@ -19,12 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Thesis Internship"
+  company = "ML6"
+  company_url = "https://www.ml6.eu"
+  location = "Amsterdam"
+  date_start = "2020-11-01"
+  date_end = "2021-06-30"
+  description = """Perform research in the field of Artificial Intelligence. Topic: Reinforcement Learning Applied to an Autonomous Drone for Follow-Me Behavior."""
+
+[[experience]]
   title = "Teaching Assistant"
   company = "Utrecht University"
   company_url = "https://www.uu.nl"
   location = "Utrecht"
   date_start = "2020-02-01"
-  #date_end = "2020-12-31"
+  date_end = "2020-06-30"
   description = """Help students with coding challenges, preparing classes and grading work."""
 
 [[experience]]
@@ -32,7 +41,7 @@ date_format = "Jan 2006"
   company = "Sensorfact"
   company_url = "https://www.sensorfact.nl"
   location = "Utrecht"
-  date_start = "2019-06-01"
+  date_start = "2019-05-01"
   date_end = "2020-02-01"
   description = """
   * Analyze Energy Expenditure Data

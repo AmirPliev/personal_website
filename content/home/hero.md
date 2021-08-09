@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "Academia"
 
@@ -35,13 +35,13 @@ hero_media = "pf_pic3.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "#about"
-  label = "Know more"
+  label = "Get to know me"
   
 [btn_alt]
   url = "#contact"
   label = "Contact me"
 
 +++
-## My name is **Amir Pliev** and I'm a **student** specializing in **Artificial Intelligence**
+## My name is **Amir Pliev** and I'm an **Artificial Intelligence Graduate** looking for my next **challenge**
 
 Welcome to my website. This site is used in order to showcase my resume, previously worked projects and personal projects that I explore. 

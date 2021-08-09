@@ -5,23 +5,33 @@
 
 [[main]]
   name = "Home"
+  url = "#hero"
+  weight = 1
+
+[[main]]
+  name = "News"
+  url = "#slider"
+  weight = 2
+
+[[main]]
+  name = "Resume and Skills"
   url = "#about"
-  weight = 10
+  weight = 3
 
 [[main]]
-  name = "Machine Learning Projects"
+  name = "Resume and Skills"
+  url = "#about"
+  weight = 4
+
+[[main]]
+  name = "Projects"
   url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Music"
-  url = "#publications"
-  weight = 40
+  weight = 5
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -14,30 +14,29 @@ btn:
 superuser: true
 
 # Role/position
-role: Artificial Intelligence Student
+role: Artificial Intelligence Graduate
 
 # Organizations/Affiliations
 organizations:
 - name: Utrecht University
-  url: "uu.nl"
+  url: "https://www.uu.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: An Artificial Intelligence student with a background in energy, psychology and international law, looking for a new challenge.
+bio: An Artificial Intelligence Graduate with a background in energy, psychology and international law.
 
 # Should the user's education and interests be displayed?
 display_education: true
 
 interests:
-- Fitness
-- Music Production
-- Reinforcement Learning
+- Music Writing and Production
+- Sports
 
 education:
   courses:
-  - course: (Pre-) Master in Artificial Intelligence
+  - course: MSc in Artificial Intelligence (Cum Laude)
     institution: Utrecht University
     year: 2021
-  - course: BSc in Liberal Arts and Sciences
+  - course: BSc in Liberal Arts & Sciences
     institution: University College Roosevelt (Utrecht University)
     year: 2017
 
@@ -46,9 +45,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:amirpliev@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/amir.pliev
@@ -74,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am Amir Pliev, currently an Artificial Intelligence Master student at Utrecht University. 
+I am Amir Pliev, an Artificial Intelligence Master graduate from Utrecht University looking for a new challenge. 
 

@@ -2,12 +2,14 @@
 title: "An example conference paper"
 authors:
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: https://blog.ml6.eu/implementing-a-reinforcement-learning-agent-with-tf-agents-to-train-an-autonomous-drone-in-airsim-b1e85b5994a6
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +31,8 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
+- name: Custom Link
+  url: http://example.org
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'

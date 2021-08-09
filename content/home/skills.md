@@ -3,7 +3,7 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 4  # Order that this section will appear.
 
 title = "Skills"
 #subtitle = ""
@@ -49,7 +49,7 @@ title = "Skills"
   icon = "globe-americas"
   icon_pack = "fas"
   name = "English"
-  parcent = "95%"
+  parcent = "100%"
 
 [[feature]]
   icon = "globe-europe"
@@ -61,5 +61,5 @@ title = "Skills"
   icon = "globe-asia"
   icon_pack = "fas"
   name = "Russian"
-  parcent = "60%"
+  parcent = "70%"
 +++
