@@ -18,6 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[experience]]
+  title = "Team Lead Software Development"
+  company = "Avonic"
+  company_url = "https://www.avonic.com"
+  location = "Delfgauw"
+  date_start = "2022-05-01"
+  date_end = ""
+  description = """As a software developer, I was responsible for developing and maintaining software applications for the company. In addition to my development tasks, I also had leadership responsibilities for a software team. I was the final decision maker for all technical decisions related to the software design and for the operational processes within the team. I coordinated planning and task delegation within the team, defined issues and planned sprints.
+
+I translated management requests into actionable items for the team and ensured that sprint processes were well-coordinated. I led, coached, and motivated the team, and conducted regular performance reviews. I maintained contact with external collaboration partners and was jointly responsible for budget management of the software development team.
+
+I achieved several milestones in my role, including setting up a software team from two developers to a team of six developers, creating a functional CI/CD pipeline to accelerate development, and planning, building, and launching a new product within a month."""
+
+[[experience]]
+  title = "Software Developer (Computer Vision)"
+  company = "Avonic"
+  company_url = "https://www.avonic.com"
+  location = "Delfgauw"
+  date_start = "2021-11-22"
+  date_end = "2022-05-01"
+  description = """Part of the software development process of building and deploying a product on an IoT/Edge Device."""
+
+
 [[experience]]
   title = "Thesis Internship"
   company = "ML6"
