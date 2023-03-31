@@ -18,25 +18,25 @@ title = "Skills"
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  parcent = "90%"
+  parcent = "95%"
   
 [[feature]]
-  icon = "windows"
+  icon = "react"
   icon_pack = "fab"
-  name = "C#"
-  parcent = "85%"  
+  name = "React"
+  parcent = "75%"  
 
 [[feature]]
-  icon = "r-project"
+  icon = "docker"
   icon_pack = "fab"
-  name = "R"
-  parcent = "80%"
+  name = "docker"
+  parcent = "60%"
   
 [[feature]]
-  icon = "microsoft"
+  icon = "ubuntu"
   icon_pack = "fab"
-  name = "C++"
-  parcent = "60%"
+  name = "Linux"
+  parcent = "80%"
   
 
 [[feature]]
